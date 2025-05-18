@@ -2,7 +2,7 @@
 
 #image of a black square2:
 
-<img src="(https://github.com/user-attachments/assets/058657e1-a198-4edb-9200-a1c7bf4a689e)" width="400" height="300" alt="My Photo">
+<img src="(https://github.com/user-attachments/assets/058657e1-a198-4edb-9200-a1c7bf4a689e)" width="400" height="300" alt="Untitled">
 
 
 ![Untitled](<img src="(https://github.com/user-attachments/assets/058657e1-a198-4edb-9200-a1c7bf4a689e)" width="400" height="300" alt="My Photo">
