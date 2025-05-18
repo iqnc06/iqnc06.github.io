@@ -8,5 +8,8 @@
 
 #Beyonce test2
 
-![Untitled](https://github.com/user-attachments/assets/74a0b37b-1731-4314-a61f-fd5eb5eeb126)
-
+https://github.com/user-attachments/assets/74a0b37b-1731-4314-a61f-fd5eb5eeb126
+<!-- Put this where you want the player to appear: -->
+<audio id="bg-music" controls loop>
+  <source src="https://github.com/user-attachments/assets/74a0b37b-1731-4314-a61f-fd5eb5eeb126" type="audio/mpeg">
+</audio>
