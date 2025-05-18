@@ -6,10 +6,10 @@
 
 
 
-#Beyonce test2
+#Beyonce test3
 
 https://github.com/user-attachments/assets/74a0b37b-1731-4314-a61f-fd5eb5eeb126
 <!-- Put this where you want the player to appear: -->
-<audio id="bg-music" controls loop>
+<audio id="bg-music" controls loop autoplay>
   <source src="https://github.com/user-attachments/assets/74a0b37b-1731-4314-a61f-fd5eb5eeb126" type="audio/mpeg">
 </audio>
