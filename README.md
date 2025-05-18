@@ -1,4 +1,4 @@
-# iqnc06.github.io
+# **Me when i make a kinda ugly website but ig it'll work with some modifications**
 
 #image of a black square:
 
