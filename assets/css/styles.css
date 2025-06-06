@@ -1,0 +1,43 @@
+/* Reset default margins/padding if you want */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body styles: full‐page background */
+body {
+  /* Point to your background file */
+  background-image: url("../images/background.jpg");
+  background-size: cover;       /* Scale so it always fills */
+  background-position: center;  /* Center the image */
+  background-repeat: no-repeat; /* Don’t tile */
+  /* If you want a fallback color: */
+  background-color: #222;       /* only shows if image fails to load */
+  
+  font-family: sans-serif;
+  color: white; /* assuming light text over a dark background */
+}
+
+/* Optional: make content stand out against a busy background */
+header,
+section {
+  background-color: rgba(0, 0, 0, 0.6); /* semi‐transparent overlay */
+  padding: 1rem;
+  margin: 1rem auto;
+  max-width: 800px;
+  border-radius: 8px;
+}
+
+/* Example: style heading */
+header h1 {
+  font-size: 2.5rem;
+  text-align: center;
+}
+
+/* Example: style image captions */
+section p {
+  margin-top: 0.5rem;
+  font-size: 1rem;
+  text-align: center;
+}
